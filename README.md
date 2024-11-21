@@ -37,3 +37,8 @@ Total of (3/16) chance.
 Combining all the bad cases results with a probability of 5/16 chance of a bad pivot, meaning we have a 11/16 chance to have a good pivot.
 Chosing the leftmost element as the pivot results in a good pivot 50% of the time while using the median-of-three method results in a good pivot 68.75% of the time.
 50% < 68.75% so median-of-three method is superior.
+
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”
