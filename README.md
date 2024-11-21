@@ -20,7 +20,7 @@ Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
 
-Within the lecture 01 sorting slides, slide 52 explains how 1/2 of the array is a good pivot as long as it's not within the first 1/4 or last 1/4 of the array.
+Within the lecture 01 sorting slides, slide 34 explains how 1/2 of the array is a good pivot as long as it's not within the first 1/4 or last 1/4 of the array.
 If we always pick the left most element as the pivot it has a 50% chance of being a good pivot since it could be the middle 1/2 or the first and last 1/2 (1/4 + 1/4 = 1/2).
 
 Using the median-of-three method to pick a pivot, there's 3 possiblities of left, middle, and right sections of the array. 
